@@ -37,7 +37,9 @@ background-color: rgb(192, 0, 0);
     to{transform: rotate(360deg) translateX(70px) rotate(-360deg) ;}
 }
 
-p{
+a{
+    width: 65x;
+    height: 20px;
     color: white;
     font-family: system-ui ;
     position: absolute;
@@ -206,16 +208,4 @@ p{
     height: 610px;
     width: 610px;
 }
-h1{
-    position: absolute;
-    width: 120px;
-    height: 30px;
-    font-size: 20px;
-    font-weight: 700;
-    background-color: #081435;
-    top: 30px ;
-    left:20px ;
-    transform: translate(-0% -0%);
-    box-sizing: opx;
-    padding: 50px;
-}
+
